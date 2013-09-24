@@ -1,5 +1,7 @@
 # Midpay::Kuaiqian
 
+[![Code Climate](https://codeclimate.com/github/xixilive/midpay_kuaiqian.png)](https://codeclimate.com/github/xixilive/midpay_kuaiqian)
+
 Payment strategy for Kuaiqian(快钱 https://www.99bill.com/) base on Midpay Middleware.
 
 ## Installation
